@@ -1,0 +1,7 @@
+{
+    "id" : 1 ,
+    "name" : "ali",
+    "contact" : ["031xxxxx" , "034xxxxxx"],
+    "adderess" : {"karachi" : "saddar" , "lahore" : "Modal town"},
+    "nic" : true
+}

@@ -1,0 +1,16 @@
+{
+    "Watches" : [
+        {"name" : "Sveston 1" , "price" : 14000 , "image" : "images/w1.jpg"},
+        {"name" : "Sveston 2" , "price" : 14000 , "image" : "images/w1.jpg"},
+        {"name" : "Sveston 3" , "price" : 14000 , "image" : "images/w1.jpg"},
+        {"name" : "Sveston 4" , "price" : 14000 , "image" : "images/w1.jpg"}
+    ],
+    "perfumes" : [
+        {"name" : "J.1" , "price" : 8000 , "image" : "images/p1.jpg"},
+        {"name" : "J.2" , "price" : 8000 , "image" : "images/p1.jpg"},
+        {"name" : "J.3" , "price" : 8000 , "image" : "images/p1.jpg"},
+        {"name" : "J.4" , "price" : 8000 , "image" : "images/p1.jpg"}
+
+    ]
+
+}
